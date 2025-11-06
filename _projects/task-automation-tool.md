@@ -2,7 +2,7 @@
 title: Task Automation CLI Tool
 description: Command-line tool for automating repetitive development tasks
 date: 2024-08-20
-github: https://github.com/yourusername/task-automation
+github: https://github.com/alihtt/task-automation
 tech: [Python, Click, YAML]
 status: Maintenance
 featured: true

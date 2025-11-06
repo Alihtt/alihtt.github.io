@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Your Name
-first_name: Your
-last_name: Name
-greeting: "Hi, I'm Your Name!"
+title: Ali Hatami
+first_name: Ali
+last_name: Hatami
+greeting: "Hi, I'm Ali!"
 tagline: "Just a programmer"
-email: your-email@example.com
+email: aliht.workspace@example.com
 
 description: >- # the ">" symbol means to ignore newlines
   Personal blog - A programmer sharing thoughts on software development,
@@ -21,7 +21,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://alihtt.github.io" # the base hostname & protocol for your site
-baseurl: "/al-minimal" # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 
 # -----------------------------------------------------------------------------
 # About
@@ -37,19 +37,19 @@ about: >-
 
 social:
   - icon: fa-brands fa-github
-    link: https://github.com/yourusername
+    link: https://github.com/alihtt
     name: GitHub
   - icon: fa-brands fa-x-twitter
-    link: https://twitter.com/your_twitter
+    link: https://twitter.com/al_iht
     name: Twitter / X
   - icon: fa-brands fa-linkedin
-    link: https://linkedin.com/in/your_linkedin
+    link: https://linkedin.com/in/alihtt
     name: LinkedIn
   - icon: fa-brands fa-telegram
-    link: https://t.me/your_telegram
+    link: https://t.me/al_iht
     name: Telegram
   - icon: fa-solid fa-envelope
-    link: mailto:your.email@example.com
+    link: mailto:aliht.workspace@example.com
     name: Email
 
 # -----------------------------------------------------------------------------
