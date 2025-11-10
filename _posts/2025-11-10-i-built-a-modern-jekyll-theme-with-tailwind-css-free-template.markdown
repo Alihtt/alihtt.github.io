@@ -4,49 +4,7 @@ title: "I Built a Modern Jekyll Theme with Tailwind CSS (Free Template)"
 date: 2025-11-10 11:50:00 +0330
 tags: [jekyll, github, tailwindcss,webdev]
 excerpt: "I recently needed a personal blog. I wanted something minimal, fast, and easy to customize. Most Jekyll themes felt outdated or overly complex, so I built my own."
-toc:
-  - id: meet-al-minimal
-    title: Meet al-minimal
-    subsections:
-      - id: why-another-jekyll-theme
-        title: Why Another Jekyll Theme?
-  - id: features
-    title: Features
-    subsections:
-      - id: -modern-design
-        title: 🎨 Modern Design
-      - id: -content-focused
-        title: 📝 Content Focused
-      - id: -developer-experience
-        title: 🚀 Developer Experience
-      - id: -seo-sharing
-        title: 🔍 SEO & Sharing
-  - id: quick-start
-    title: Quick Start
-    subsections:
-      - id: 1-use-the-template
-        title: 1. Use the Template
-      - id: 2-configure
-        title: 2. Configure
-      - id: 3-add-content
-        title: 3. Add Content
-      - id: 4-deploy
-        title: 4. Deploy
-  - id: technical-decisions
-    title: Technical Decisions
-    subsections:
-      - id: why-tailwind-css
-        title: Why Tailwind CSS?
-      - id: why-jekyll
-        title: Why Jekyll?
-      - id: project-structure
-        title: Project Structure
-  - id: documentation
-    title: Documentation
-  - id: whats-next
-    title: What's Next
-  - id: try-it-out
-    title: Try It Out
+toc: true
 ---
 
 I recently needed a personal blog. I wanted something minimal, fast, and easy to customize. Most Jekyll themes felt outdated or overly complex, so I built my own.
@@ -179,6 +137,6 @@ What features would you want? Drop a comment!
 
 ## Try It Out
 
-🔗 **GitHub:**  [https://github.com/alihtt/al-minimal](https://github.com/alihtt/al-minimal)    
-📄 **License:** MIT (use it however you want!)  
+🔗 **GitHub:**  [https://github.com/alihtt/al-minimal](https://github.com/alihtt/al-minimal)
+📄 **License:** MIT (use it however you want!)
 ⭐ **Star it** if you find it useful!

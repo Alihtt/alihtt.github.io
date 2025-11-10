@@ -4,28 +4,7 @@ title: "How I Built a Django Honeypot to Catch Attackers (and What I Learned)"
 date: 2025-11-10 11:43:00 +0330
 tags: [django, python, opensource,security]
 excerpt: "If you've ever run a Django site, you've probably seen the endless stream of bots trying to brute-force your `/admin/` page. After watching my logs fill up with failed login attempts, I decided to do something about it."
-toc:
-  - id: the-problem
-    title: The Problem
-  - id: the-solution-honeyguard
-    title: "The Solution: HoneyGuard"
-    subsections:
-      - id: 1-fake-login-pages
-        title: Fake Login Pages
-      - id: 2-behavioral-detection
-        title: Behavioral Detection
-      - id: 3-intelligence-gathering
-        title: Intelligence Gathering
-      - id: 4-alerts--integration
-        title: Alerts & Integration
-  - id: quick-start
-    title: Quick Start
-  - id: what-i-learned
-    title: What I Learned
-  - id: try-it-out
-    title: Try It Out
-  - id: whats-next
-    title: What's Next
+toc: true
 ---
 
 If you've ever run a Django site, you've probably seen the endless stream of bots trying to brute-force your `/admin/` page. After watching my logs fill up with failed login attempts, I decided to do something about it.
